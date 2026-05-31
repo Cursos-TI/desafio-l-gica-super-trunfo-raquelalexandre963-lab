@@ -15,5 +15,6 @@ printf("fiz o desafio de cafrastar carta\n");
 printf("ola mundo no codespace\n");
 printf("exemplo de aplicacao de codigo\n");
 
+
 return 0;
 } 
